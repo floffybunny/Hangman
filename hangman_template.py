@@ -1,4 +1,4 @@
-# Name:
+# Name: Amy
 # Project 1: Hangman template
 # hangman_template.py
 # Import statements: DO NOT delete these! DO NOT write code above this!
